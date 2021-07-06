@@ -1,4 +1,4 @@
-### Bulett,ms
+### Bulettin
 0. https://www.tomorrow.com.tr/
 1. http://genesisnews.co/
 2. https://www.gunlukbulten.com/
